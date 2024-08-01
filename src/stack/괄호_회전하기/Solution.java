@@ -53,6 +53,4 @@ public class Solution {
         // 루프가 끝났을 때, 스택에 열린 괄호가 남아있을 경우에도 false;
         return stack.isEmpty();
     }
-
-
 }
